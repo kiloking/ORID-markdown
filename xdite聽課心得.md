@@ -273,7 +273,7 @@ Bob 其實花很少時間講道理。其實更多時間是口訣、活動、討�
 
 這個活動設計有三個步驟。叫 C P R
 
-C 是 Content ，Ｐ是 Participate，R 是 Revist。
+C 是 Content ，Ｐ是 Participate，R 是 Review。
 
 20 分鐘要完成一組：教他內容，讓他參與，還能夠溫習。
 
